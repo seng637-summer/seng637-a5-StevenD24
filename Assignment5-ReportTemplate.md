@@ -17,9 +17,7 @@
 
 # Assessment Using Reliability Demonstration Chart 
 
-<br>
-
-Reliability Demonstration Charts
+### Reliability Demonstration Charts
 <br>
 1. Upon evaluation of the system's reliability metrics, the threshold for an acceptable Mean Time To Failure (MTTF) was delineated. We employed a trial-and-error method to iteratively adjust the Failure Input Output (FIO) to ascertain this. After multiple iterations, it was ascertained that the FIO aligned precisely at a ratio of 750/31, translating to approximately 24.194 failures per interval. Consequently, this results in an MTTF of 0.0413, establishing our operational reliability benchmark.
 
